@@ -1,6 +1,6 @@
 Инструкция по установке моего приложения:
 
-* git clone https://github.com/imezler/Test.git
-* cd site
-* bower i
-* npm i
+1. git clone https://github.com/imezler/Test.git
+2. cd site
+3. bower i
+4. npm i
